@@ -16,7 +16,7 @@ let stores = [{
         "city":"Colombo",
         "countrySubdivisionCode": "CMB",
         "countryCode": "LK",
-        "postalCode":"000600"
+        "postalCode":"00600"
     }
 },
 
@@ -38,7 +38,7 @@ let stores = [{
         "city":"Colombo",
         "countrySubdivisionCode": "CMB",
         "countryCode": "LK",
-        "postalCode":"000600"
+        "postalCode":"00600"
 
     }
 },

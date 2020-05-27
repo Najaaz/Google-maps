@@ -124,6 +124,8 @@ body{
 
 .store-container{
     border-bottom: 1px solid #979797;
+    padding-top: 2px;
+    transition: all 0.5s ease-in-out;
 }
 
 .store-number-container{
@@ -140,4 +142,9 @@ body{
     background: grey;
     border-radius: 15px;
     margin-right: 10px;
+}
+
+.store-container:hover{
+    background-color: #ccc;
+    border-radius: 20px;
 }
